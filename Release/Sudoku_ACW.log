@@ -1,0 +1,9 @@
+﻿  Cell.cpp
+c:\users\edward\onedrive\year 2 uni\modules\500083 advanced programming\submission\sudoku_acw\sudoku_acw\sudoku_acw\cell.cpp(16): warning C4018: '<': signed/unsigned mismatch
+  CellGroup.cpp
+  Main.cpp
+  SudokuPuzzle.cpp
+  Generating code
+  All 252 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  Sudoku_ACW.vcxproj -> C:\Users\Edward\OneDrive\Year 2 Uni\Modules\500083 Advanced Programming\Submission\Sudoku_ACW\Sudoku_ACW\Release\Sudoku_ACW.exe
